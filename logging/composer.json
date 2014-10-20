@@ -1,0 +1,14 @@
+{
+    "name": "phpavanzado/logging",
+    "description": "Ejemplos de Logging usando Monolog con PHP",
+    "require": {
+        "php": ">=5.3.3",
+        "monolog/monolog": "~1.11"
+    },
+    "authors": [
+        {
+            "name": "Alan Chavez",
+            "email": "alan@alanchavez.com"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 <?php
 namespace Animales;
 
-Trait Oviparo {
+trait Oviparo {
     private $huevos;
 
     /**
